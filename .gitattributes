@@ -1,0 +1,3 @@
+# LF in all scripts sh
+*.sh text eol=lf
+
